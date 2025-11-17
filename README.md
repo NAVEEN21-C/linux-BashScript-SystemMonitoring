@@ -5,6 +5,7 @@
 # Author: Naveen
 # Date: 2025-11-17
 # Description: Gathers CPU info, memory usage, disk space, and I/O stats.
+<img width="902" height="564" alt="dc267b76-5111-42e7-91de-baf0821e268f" src="https://github.com/user-attachments/assets/b19f5b91-8013-4a6a-a0e5-d8e9dd98cc74" />
 
 echo "=========================================="
 echo "          SYSTEM HEALTH SNAPSHOT          "
@@ -15,6 +16,7 @@ echo ""
 echo "### 1. CPU Architecture (lscpu) ###"
 lscpu | head -n 10
 echo ""
+<img width="1072" height="536" alt="2ba259dc-7358-432d-93a7-f974e22e1415" src="https://github.com/user-attachments/assets/060aafbd-e1e0-4518-894b-6f143a42b2ae" />
 
 # 2. Memory Usage (free -m)
 echo "### 2. Memory Usage (free -m) ###"
